@@ -1,0 +1,10 @@
+url: ~
+template:
+  bootstrap: 5
+reference:
+- title: Cwdata- This is the first section.
+  desc: >
+    Description
+- contents:
+  - get_crop_yield
+- title: Cwdata- This is the second section.
